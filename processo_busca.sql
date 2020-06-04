@@ -39,7 +39,7 @@ SELECT (select instance_name from gv$instance i where i.inst_id = s.inst_id) as 
        p.PROGRAM,
        p.TERMINAL,
        p.PNAME,
-	   p.TRACEFILE
+       p.TRACEFILE
 FROM gv$process p , gv$session  s
 WHERE p.addr = s.paddr
 and p.spid = '&1';
