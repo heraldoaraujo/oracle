@@ -1,6 +1,6 @@
 REM Autor            : Heraldo Araujo da Silva
 REM Data atualizacao : 04/06/2020
-REM Descricao        : Exibe informações de um processo 
+REM Descricao        : Exibe informaÃ§Ãµes de um processo 
 REM Nota 1           : Passando como parametro o PID do sistema operacional
 REM Exemplo          : SQL>processo_busca.sql 99999
 
@@ -22,7 +22,7 @@ col event     format a40
 col terminal  format a20
 
 prompt 
-prompt R e l a c a o   p r o c e s s o   S . O   e   b a n c o   d e   d a d o s
+prompt R e l a c a o   p r o c e s s o   S . O   e   p r o c e s s o   n o   b a n c o   d e   d a d o s
 prompt  
 SELECT (select instance_name from gv$instance i where i.inst_id = s.inst_id) as instancia,
        s.sid sid,
