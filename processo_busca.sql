@@ -1,4 +1,4 @@
-REM Autor            : Heraldo Araujo da Silva
+REM Autor            : Heraldo Silva
 REM Data atualizacao : 04/06/2020
 REM Descricao        : Exibe informações de um processo 
 REM Nota 1           : Passando como parametro o PID do sistema operacional
