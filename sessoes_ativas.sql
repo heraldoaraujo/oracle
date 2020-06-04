@@ -1,4 +1,4 @@
-REM Autor            : Heraldo Araujo da Silva
+REM Autor            : Heraldo Silva
 REM Data atualizacao : 28/01/2019
 REM Descricao        : Exibe apenas as sessoes que estao com status ativo
 
