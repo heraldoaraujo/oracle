@@ -1,6 +1,6 @@
-REM Autor            : Heraldo Araujo da Silva
+REM Autor            : Heraldo Silva
 REM Data atualizacao : 04/06/2020
-REM Descricao        : Exibe os usu·rios logados e de forma agrupada a quantidade de threads. 
+REM Descricao        : Exibe os usu√°rios logados e de forma agrupada a quantidade de threads. 
 
 set line 200
 col username  format a17
