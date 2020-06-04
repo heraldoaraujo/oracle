@@ -9,6 +9,7 @@ set feed     off
 col owner    format a8
 col job_name format a30
 col duracao  format a30
+col enabled  format a7
 
 prompt 
 prompt T a r e f a s   a g e n d a d a s
