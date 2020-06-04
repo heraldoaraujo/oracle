@@ -1,4 +1,4 @@
-REM Autor            : Heraldo Araujo da Silva
+REM Autor            : Heraldo Silva
 REM Data atualizacao : 28/01/2019
 REM Descricao        : Gera o DDL de um programa PLSQL e joga a saida em um spool.
 REM Nota 1           : Deve passar como parametro o <dono>.<objeto>
