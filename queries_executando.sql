@@ -1,4 +1,4 @@
-REM Autor            : Heraldo Araujo da Silva
+REM Autor            : Heraldo Silva
 REM Data atualizacao : 04/06/2020
 REM Descricao        : exibe as queries que estao sendo executada 
 
