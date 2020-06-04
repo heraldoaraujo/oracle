@@ -1,4 +1,4 @@
-REM Autor     : Heraldo Araújo da Silva
+REM Autor     : Heraldo Silva
 REM Data      : 04/06/2020
 REM Descricao : Exibe informações sobre a sicronizacao do destino dos arqchive log
 REM           : Util para fazer troubleshoot de uma ambiente em dataguard
