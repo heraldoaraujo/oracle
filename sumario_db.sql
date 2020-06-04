@@ -1,4 +1,4 @@
-REM Autor            : Heraldo Araujo da Silva
+REM Autor            : Heraldo Silva
 REM Data atualizacao : 04/06/2020
 REM Descricao        : Exibe informacoes conveniente para ter um conhecimento geral de uma base de dados.
 REM nota 1           : Alterar o caminho do spool na linha 14
