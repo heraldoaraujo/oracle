@@ -21,12 +21,11 @@ prompt
 select (select instance_name from gv$instance i where i.inst_id = s.inst_id) as instancia,
        s.sid, 
        s.serial# serial,
-	   p.spid pid_SO,
+       p.spid pid_SO,
        s.username,
        s.osuser,
        s.event,
        to_char(s.sql_exec_start,'dd/mm/yy hh24:mi:ss') inicio_execucao,
-       --to_char(s.prev_exec_start,'dd/mm/yy hh24:mi:ss') execucao_ult_querie,
        sql.sql_id,
        sql.sql_text
 from gv$session s, gv$process p, gv$sql sql
