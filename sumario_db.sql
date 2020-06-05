@@ -10,7 +10,7 @@ column instancia new_value char;
 select name||'_' instancia, to_char(sysdate,'yyyymmdd_hh24miss') timecol
 from v$database ;
 
---altear o caminho do spool na linha abaixo
+--alterar o caminho do spool na linha abaixo
 spool C:\diretorio\sumario_&&char&&data ;
 set serveroutput on size 1000000;
 set timing off;
